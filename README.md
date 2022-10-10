@@ -2,7 +2,7 @@
 
 ## Einführende Anmerkungen
 
-Dieses Repo enthält die gescrapten und geparsten Daten von Bergkranz-, Teilverband- und Kantonal-Schwingfeste aus den Jahren 2015 bis und mit Juli 2022, die auf ESV.ch veröffentlicht wurden (Stand: Juli 22) und von Bajour und SRF geparst, verarbeitet und ergänzt wurden. Falls gewünscht, kann die TrueSkill Berechnung noch nachgereicht werden (dazu bitte ein Issue erfassen).
+Dieses Repo enthält die gescrapten und geparsten Daten von Bergkranz-, Teilverband- und Kantonal-Schwingfeste aus den Jahren 2015 bis und mit Juli 2022, die auf ESV.ch veröffentlicht wurden (Stand: Juli 22) und von Bajour und SRF geparst, verarbeitet und ergänzt wurden. Falls gewünscht, kann die TrueSkill Berechnung noch nachgereicht werden (dazu bitte ein issue erfassen).
 
 Es handelt sich aktuell noch um einen Zwischenstand, da ein Teil des Prozesses (Berechnung TrueSkill) aufgrund von Ferienabwesenheiten fehlt. SRF wird diesen, zusammen mit einem Analyseskript, voraussichtlich im Oktober nachliefern.
 
